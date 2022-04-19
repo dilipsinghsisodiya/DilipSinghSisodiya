@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DilipSinghSisodiya
+- 👋 Hi, I’m Dilip Singh Sisodiya
 - 👀 I’m very much interested in - JavaScript
 - 🌱 I’m currently learning - Mern Stack Development
 - 💞️ I’m looking to collaborate with Developers - [dilip.singh.sisodiya](https://www.instagram.com/dilip.singh.sisodiya/)
